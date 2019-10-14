@@ -1,2 +1,13 @@
 First Line
 Second Line
+
+#Integers = int - whole numbers, to be avoided in clin trial data, unless there are no decimals... participant ID, site number, respiratory rate, etc.
+
+
+#most data types will be floating point = float to account for decimals like weight, temperature
+
+#subject and site data could be stored as lists, ordered sequence of objects
+
+#Think about when to use Tuples or tup, ordered IMMUTABLE sequence of objects
+
+#sets or set could be thought of quantifying data rows?
