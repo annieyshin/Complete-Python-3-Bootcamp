@@ -1,4 +1,4 @@
-#Add notes to this repo as needed to make notes to yourself as you learn Python-3
+#Add notes to yourself as needed as you learn Python-3
 
 #make sure to leave detailed markdown notes in each lesson for reference
 
